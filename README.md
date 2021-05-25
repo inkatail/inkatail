@@ -1,6 +1,6 @@
 ### Hello there! 👋
-
+- 🪐 My name is Bartłomiej, i like technology, art and movies.
 
 
 ### ToDo List ⚡
-- [x] My new site *Corrupted well i don't know why but working*
+- [x] My new website
