@@ -4,8 +4,8 @@
 - 💻 I'm currently learning **JavaScript**
 
 ### Stats 📊
-[![Inkatail's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inkatail)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inkatail)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Inkatail&count_private=true" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkatail&count_private=true&langs_count=7" />
 
 
 ### ToDo List ⚡
