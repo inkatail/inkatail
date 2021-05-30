@@ -10,5 +10,5 @@
 
 ### ToDo List ⚡
 - [x] My new website
-- [ ] Sark Discord BOT
+- [ ] Slurk Discord BOT
 
