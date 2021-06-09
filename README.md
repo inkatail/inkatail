@@ -9,6 +9,5 @@
 
 
 ### ToDo List ⚡
-- [x] My new website
-- [ ] Slurk Discord BOT
+
 
