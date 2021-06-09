@@ -1,4 +1,4 @@
-### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 🪐 My name is **Bartłomiej**, i like technology, art and movies.
 - 🌈 I'm from **Poland**
 - 💻 I'm currently learning **JavaScript**
