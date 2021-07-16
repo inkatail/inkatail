@@ -7,7 +7,7 @@
 #
   
 ### Discord ✨  
-https://discord.c99.nl/widget/theme-4/467627370879385600.png  
+<img align="center" src="https://discord.c99.nl/widget/theme-4/467627370879385600.png"/>
   
 #
   
