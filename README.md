@@ -6,6 +6,11 @@
   
 #
   
+### Discord ✨  
+https://discord.c99.nl/widget/theme-4/467627370879385600.png  
+  
+#
+  
 ### Stats 📊
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Inkatail&count_private=true" /> <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkatail&count_private=true&langs_count=7" />
