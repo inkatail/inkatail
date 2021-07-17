@@ -1,17 +1,17 @@
 <div align="center">
   
-### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
 - 🗺️ I'm from **Poland**
   
 #
   
-### Discord ✨  
+### Discord Account 🎉
 <img align="center" src="https://discord.c99.nl/widget/theme-4/467627370879385600.png"/>
   
 #
   
-### Stats 📊
+### Some Stats 📊
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Inkatail&count_private=true" /> <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkatail&count_private=true&langs_count=7" />
 
