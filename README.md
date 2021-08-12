@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 ## **Hey there** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -13,8 +13,8 @@
 
 ### Stats 💉  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Inkatail&count_private=true&theme=dracula" /> <br><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkatail&count_private=true&langs_count=7&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Inkatail&count_private=true&theme=dracula" /> <br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkatail&count_private=true&langs_count=7&theme=dracula" />
 
   
 #
