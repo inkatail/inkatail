@@ -13,10 +13,12 @@
 
 ### Stats 💉  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Inkatail&count_private=true&theme=Dracula" /> <br><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkatail&count_private=true&langs_count=7&theme=Dracula" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Inkatail&count_private=true&theme=dracula" /> <br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkatail&count_private=true&langs_count=7&theme=dracula" />
 
 #
 
 ### What I'm listening to 🎶  
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n4ayrxpbuhgeoyek1mrcyrvfg&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)  
   
