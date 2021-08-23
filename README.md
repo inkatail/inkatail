@@ -6,9 +6,9 @@
 
 # 💬 Contact
 
-You can message to me on Discord [`Inkatail#0112`](https://discord.com/users/467627370879385600).
-If you want to message me on Telegram then search for `@Inkataill`.
-If i can reply on twitter, then go to my profile [`@Inkatail`](https://twitter.com/Inkatail).
+You can message to me on Discord [`Inkatail#0112`](https://discord.com/users/467627370879385600)
+If you want to message me on Telegram then search for `@Inkataill`
+If i can reply on twitter, then go to my profile [`@Inkatail`](https://twitter.com/Inkatail)
 
 # 💻 Software & Language
 
