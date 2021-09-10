@@ -1,8 +1,8 @@
 # **Hello!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🧪 I'm [**LabsHQ**](https://discord.com/labshq) Admin
-- 🌐 My website is [**Inkatail.pl**](https://inkatail.pl)
-- 🎶 I like listening to music and watch videos on youtube 
+- 🌐 My Personal website is [**Inkatail.pl**](https://inkatail.pl)
+- ⭐ I like tea and listening to spotify 
 
 # 🎶 What I'm listening to
 
