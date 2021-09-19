@@ -1,9 +1,15 @@
-# **Hello!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello! 👋
+This is **my github profile**
 
-- 🧪 I'm [**LabsHQ**](https://discord.com/labshq) Admin
-- 🌐 My Personal website is [**Inkatail.pl**](https://inkatail.pl)
-- ⭐ I like tea and listening to spotify 
+![](https://komarev.com/ghpvc/?username=Inkatail)
 
-# 🎶 What I'm listening to
+### Some Stats 📊
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inkatail&show_icons=true&theme=omni)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n4ayrxpbuhgeoyek1mrcyrvfg&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+### Discord 💬
+
+### Projects 🏗️
+
+### Contact 📧
+
+### What I'm listening to 🎵
