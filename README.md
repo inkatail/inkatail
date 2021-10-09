@@ -1,4 +1,5 @@
 # 👋 My name is Bartek
+Just a guy
 
 # 📁 Projects
 Well as u see, i dont have any projects
