@@ -14,7 +14,7 @@
   
 ### Some Stats 📊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inkatail&theme=kacho_ga&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=inkatail&theme=kacho_ga&show_icons=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkatail&theme=kacho_ga&count_private=true&langs_count=7" />
 
 #
