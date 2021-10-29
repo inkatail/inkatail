@@ -14,8 +14,8 @@
   
 ### Some Stats 📊
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=inkatail&count_private=true" /> <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkatail&count_private=true&langs_count=7" />
+(https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=kacho_ga&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkatail&theme=kacho_ga&count_private=true&langs_count=7" />
 
 #
 
