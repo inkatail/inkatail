@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Heya!
+### 👋 Heya!
 
 ☕ I'm just a normal guy from Poland that likes many things  
 
@@ -12,7 +12,7 @@
   
 # 
   
-### Stats 📊
+### Some Stats 📊
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Inkatail&count_private=true" /> <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkatail&count_private=true&langs_count=7" />
