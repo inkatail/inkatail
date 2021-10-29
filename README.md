@@ -8,15 +8,14 @@
 
 ### Discord Account 🗨️
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/467627370879385600
-                            )](https://discord.com/users/467627370879385600)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:id)](https://discord.com/users/467627370879385600)
   
 # 
   
 ### Some Stats 📊
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Inkatail&count_private=true" /> <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkatail&count_private=true&langs_count=7" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=inkatail&count_private=true" /> <br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkatail&count_private=true&langs_count=7" />
 
 #
 
