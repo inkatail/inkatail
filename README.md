@@ -1,22 +1,14 @@
-<div align="center">
+<a href= "https://discord.com/users/563718132863074324"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/467627370879385600?bg=00000000" /></a>
+  <br>
+### 👋 **About me...**
+
+
+ Hi i'm **inkatail**
+ 
+<a  href="https://github.com/inkatail?tab=repositories"><img align="center" style="position:relative; left:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesiik&layout=compact&title_color=2ecc71&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></a>
   
-### 👋 Heya!
-
-☕ I'm just a normal guy from Poland that likes many things  
-
-#
-
-### Discord Account 🗨️
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/467627370879385600)](https://discord.com/users/467627370879385600)
+<a href="https://discord.com/oauth2/authorize?client_id=758384737458323466&permissions=8&scope=bot"><img align="right" src="https://komarev.com/ghpvc/?username=inkatail&color=2f3136">
+<!-- 
   
-# 
-  
-### Some Stats 📊
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=inkatail&theme=kacho_ga&count_private=true" /> <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkatail&theme=kacho_ga&count_private=true&langs_count=7" />
-
-#
-
-</div>
+<img align="right" src="https://discordapp.com/api/guilds/750122220147310683/widget.png?style=banner2" alt="Discord Banner 2"/>
+ -->
