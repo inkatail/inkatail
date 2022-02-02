@@ -3,7 +3,7 @@
 ### 👋 **About me...**
 
 
- Hi i'm **inkatail**
+ Hi i'm **inkatail**, podjebaned from mesik bo why not
  
 <a  href="https://github.com/inkatail?tab=repositories"><img align="center" style="position:relative; left:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkatail&layout=compact&title_color=2ecc71&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></a>
   
